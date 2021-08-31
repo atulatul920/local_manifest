@@ -6,9 +6,7 @@
         <remote name="patch"
                 fetch="https://github.com/Los-FE" />
          <remote name="Realme-G70-Series"
-                fetch="https://github.com/Realme-G70-Series" />
-         <remote name="pixel"
-                fetch="https://github.com/PixelExperience" />        
+                fetch="https://github.com/Realme-G70-Series" />       
         
         <project path="device/realme/RMX2020" name="device_realme_RMX2020" remote="sarthakroy2002" revision="oss" clone-depth="1" />
         <project path="vendor/realme/RMX2020" name="vendor_realme_RMX2020" remote="sarthakroy2002" revision="11" clone-depth="1" />
