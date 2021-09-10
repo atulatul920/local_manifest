@@ -10,7 +10,7 @@
              
         <project path="device/realme/RMX2020" name="android_device_realme_RMX2020" remote="sarthakroy2002" revision="hentaios" clone-depth="1" />
         <project path="vendor/realme/RMX2020" name="vendor_realme_RMX2020" remote="Realme-G70-Series" revision="11-rmui1" clone-depth="1" />
-        <project path="kernel/realme/RMX2020" name="kernel_realme_rmx2020" remote="Realme-G70-Series" revision="lineage-18.1" clone-depth="1" />
+        <project path="kernel/realme/RMX2020" name="kernel_realme_RMX2020" remote="sarthakroy2002" revision="Q" clone-depth="1" />
         <remove-project name="platform/external/selinux" />
 	<remove-project name="device/generic/opengl-transport" />
 	<remove-project name="platform_build_soong" />
