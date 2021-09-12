@@ -10,7 +10,7 @@
         <remote name="pixel"
                 fetch="https://github.com/PixelExperience" />        
         
-        <project path="device/realme/RMX2020" name="device_realme_RMX2020" remote="sarthakroy2002" revision="lineage-18.1-rmui1" clone-depth="1" />
+        <project path="device/realme/RMX2020" name="android_device_realme_RMX2020" remote="sarthakroy2002" revision="hentai" clone-depth="1" />
         <project path="vendor/realme/RMX2020" name="vendor_realme_RMX2020" remote="sarthakroy2002" revision="11" clone-depth="1" />
         <project path="kernel/realme/RMX2020" name="kernel_realme_RMX2020" remote="sarthakroy2002" revision="Q" clone-depth="1" />
         <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="pixel" revision="eleven" clone-depth="1" />
